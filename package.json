@@ -9,7 +9,11 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/react": "^4.2.1",
     "astro": "^5.5.2",
-    "astro_exercise": "file:"
+    "astro_exercise": "file:",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.14"
   }
 }
